@@ -1,0 +1,30 @@
+.site-header{
+   background-color:#1bbc9b;
+   color:#ecfdf9; /*styling font or what we write in the page that color will be change */
+   height: 100vh;
+   /* means it will encompase the height of my phone or anything screen */
+   font-family: monospace;
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   align-items: center;
+}
+.site-header-content {
+   margin: 10px;
+}
+.round-image {
+    border-radius: 50%; /* This sets the border radius to 50% of the image width/height */
+    width: 200px; /* Adjust the width and height as needed */
+    height: 200px;
+    align-self: center;
+    box-shadow: #678aa0 5px 5px 5px;
+}
+ .join-me-link {
+     
+      color:blanchedalmond;
+
+ }
+
+ body{
+   margin: 0;
+ }
